@@ -1,0 +1,6 @@
+bin/
+include/
+.Python/
+.vscode/
+.pytest_cache/
+__pycache__/
