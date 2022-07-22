@@ -1,0 +1,8 @@
+SERVICES variable is ignored if EAGER_SERVICE_LOADING=0.
+2022-07-22T13:45:02.504  WARN --- [  Thread-108] hypercorn.error            : ASGI Framework Lifespan error, continuing without Lifespan support
+2022-07-22T13:45:02.504  WARN --- [  Thread-108] hypercorn.error            : ASGI Framework Lifespan error, continuing without Lifespan support
+2022-07-22T13:45:02.505  INFO --- [  Thread-108] hypercorn.error            : Running on https://0.0.0.0:4566 (CTRL + C to quit)
+2022-07-22T13:45:02.505  INFO --- [  Thread-108] hypercorn.error            : Running on https://0.0.0.0:4566 (CTRL + C to quit)
+2022-07-22T13:45:09.862  INFO --- [  Thread-114] l.services.motoserver      : starting moto server on http://0.0.0.0:42139
+2022-07-22T13:45:09.863  INFO --- [   asgi_gw_0] localstack.services.infra  : Starting mock S3 service on http port 4566 ...
+2022-07-22T13:45:10.254  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS s3.CreateBucket => 200
